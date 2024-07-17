@@ -1,1 +1,1 @@
-Опробация Git-команд
+Testing git commands
